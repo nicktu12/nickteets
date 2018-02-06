@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica, sans-serif; }
+
+header h1 {
+  font-size: 64px;
+  padding: 10px;
+  transition: all 1.2s; }
+header h1:hover {
+  text-shadow: 1px 0px #009ddc, 2px 0px #009ddc, 3px 0px #009ddc, 4px 0px #009ddc, 5px 0px #009ddc, 6px 0px #009ddc, 7px 0px #009ddc, 8px 0px #009ddc, 9px 0px #009ddc, 10px 0px #963d96, 11px 0px #963d96, 12px 0px #963d96, 13px 0px #963d96, 14px 0px #963d96, 15px 0px #963d96, 16px 0px #963d96, 17px 0px #963d96, 18px 0px #963d96, 19px 0px #963d96, 20px 0px #963d96, 21px 0px #e13a3e, 22px 0px #e13a3e, 23px 0px #e13a3e, 24px 0px #e13a3e, 25px 0px #e13a3e, 26px 0px #e13a3e, 27px 0px #e13a3e, 28px 0px #e13a3e, 29px 0px #e13a3e, 30px 0px #e13a3e, 31px 0px #f6821f, 32px 0px #f6821f, 33px 0px #f6821f, 34px 0px #f6821f, 35px 0px #f6821f, 36px 0px #f6821f, 37px 0px #f6821f, 38px 0px #f6821f, 39px 0px #f6821f, 40px 0px #f6821f, 41px 0px #fcb827, 42px 0px #fcb827, 43px 0px #fcb827, 44px 0px #fcb827, 45px 0px #fcb827, 46px 0px #fcb827, 47px 0px #fcb827, 48px 0px #fcb827, 49px 0px #fcb827, 50px 0px #fcb827, 51px 0px #62bb47, 52px 0px #62bb47, 53px 0px #62bb47, 54px 0px #62bb47, 55px 0px #62bb47, 56px 0px #62bb47, 57px 0px #62bb47, 58px 0px #62bb47, 59px 0px #62bb47, 60px 0px #62bb47; }
+
+/*# sourceMappingURL=styles.css.map */
