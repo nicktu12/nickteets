@@ -49,6 +49,10 @@ header {
     background-color: #009ddc; }
   .projects .contact:hover {
     background-color: #963d96; }
+    .projects .contact:hover .project-description {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around; }
   .projects .contact .project-description .icon {
     height: 50px;
     width: 50px;
