@@ -47,6 +47,8 @@ header {
     background-color: #62bb47; }
   .projects .about-me:hover {
     background-color: #009ddc; }
+  .projects .contact:hover {
+    background-color: #963d96; }
   .projects article {
     border-radius: 2px;
     width: 100%;
