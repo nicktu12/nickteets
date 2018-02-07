@@ -28,7 +28,7 @@ header {
     background-repeat: no-repeat;
     width: 100px;
     background-size: cover;
-    background-image: url("headshot.jpg"); }
+    background-image: url("assets/headshot.jpg"); }
 
 .projects {
   padding: 10px;
@@ -49,6 +49,17 @@ header {
     background-color: #009ddc; }
   .projects .contact:hover {
     background-color: #963d96; }
+  .projects .contact .project-description .icon {
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: cover; }
+  .projects .contact .project-description .github-icon {
+    background-image: url("assets/github.svg"); }
+  .projects .contact .project-description .linkedin-icon {
+    background-image: url("assets/linkedin.svg"); }
+  .projects .contact .project-description .email-icon {
+    background-image: url("assets/email.svg"); }
   .projects article {
     border-radius: 2px;
     width: 100%;
