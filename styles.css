@@ -20,6 +20,11 @@ header {
   padding: 10px;
   display: flex;
   flex-direction: column; }
+  .projects .skills p {
+    font-size: 20px;
+    text-align: center; }
+  .projects .skills:hover {
+    background-color: #e13a3e; }
   .projects .statify:hover {
     background-color: #f6821f; }
   .projects .construction-forms:hover {
