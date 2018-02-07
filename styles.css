@@ -24,6 +24,7 @@ header {
   .projects .construction-forms .project-title {
     float: right; }
   .projects article {
+    border-radius: 2px;
     height: 200px;
     width: 100%;
     margin-bottom: 10px;
