@@ -23,6 +23,10 @@ header {
     background-color: #fcb827; }
   .projects .construction-forms .project-title {
     float: right; }
+  .projects .fly-over-media:hover {
+    background-color: #963d96; }
+  .projects .fly-over-media .project-title {
+    float: left; }
   .projects article {
     border-radius: 2px;
     height: 200px;
@@ -38,7 +42,6 @@ header {
       width: 30%;
       height: 100%;
       display: inline-block;
-      float: left;
       position: relative;
       padding: 10px;
       box-sizing: border-box; }
