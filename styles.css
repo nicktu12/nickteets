@@ -40,11 +40,14 @@ header {
   .projects .skills:hover {
     background-color: #e13a3e; }
   .projects .statify:hover {
-    background-color: #f6821f; }
+    background-color: #f6821f;
+    cursor: pointer; }
   .projects .construction-forms:hover {
-    background-color: #fcb827; }
+    background-color: #fcb827;
+    cursor: pointer; }
   .projects .fly-over-media:hover {
-    background-color: #62bb47; }
+    background-color: #62bb47;
+    cursor: pointer; }
   .projects .about-me:hover {
     background-color: #009ddc; }
   .projects .contact:hover {
