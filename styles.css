@@ -61,7 +61,8 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 35px;
-    width: 35px; }
+    width: 35px;
+    cursor: pointer; }
   .projects .contact .project-description .github-icon {
     background-image: url("assets/github.svg"); }
   .projects .contact .project-description .linkedin-icon {
