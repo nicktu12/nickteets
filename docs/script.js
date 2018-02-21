@@ -6,6 +6,10 @@ const constructionFormsHandler = () => {
   window.open('http://construction-forms.herokuapp.com/', '_blank');
 };
 
+const palettePickerHandler = () => {
+  window.open('http://palettepicker12.herokuapp.com/', '_blank');
+};
+
 const flyOverMediaHandler = () => {
   window.open('http://flyovermedia.org', '_blank');
 };
@@ -20,6 +24,7 @@ const linkedinHandler = () => {
 
 $('.statify').on('click', statifyHandler);
 $('.construction-forms').on('click', constructionFormsHandler);
+$('.palette-picker').on('click', palettePickerHandler);
 $('.fly-over-media').on('click', flyOverMediaHandler);
 $('.github-icon').on('click', githubHandler);
 $('.linkedin-icon').on('click', linkedinHandler);

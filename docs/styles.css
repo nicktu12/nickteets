@@ -51,19 +51,24 @@ header {
   .projects .construction-forms:hover {
     background-color: #fcb827;
     cursor: pointer; }
-  .projects .fly-over-media .dog-ear {
+  .projects .palette-picker .dog-ear {
     color: #62bb47; }
-  .projects .fly-over-media:hover {
+  .projects .palette-picker:hover {
     background-color: #62bb47;
     cursor: pointer; }
-  .projects .about-me .dog-ear {
+  .projects .fly-over-media .dog-ear {
     color: #009ddc; }
-  .projects .about-me:hover {
-    background-color: #009ddc; }
-  .projects .contact .dog-ear {
+  .projects .fly-over-media:hover {
+    background-color: #009ddc;
+    cursor: pointer; }
+  .projects .about-me .dog-ear {
     color: #963d96; }
-  .projects .contact:hover {
+  .projects .about-me:hover {
     background-color: #963d96; }
+  .projects .contact .dog-ear {
+    color: #e13a3e; }
+  .projects .contact:hover {
+    background-color: #e13a3e; }
     .projects .contact:hover .project-description {
       display: flex;
       align-items: center;
