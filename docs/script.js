@@ -25,6 +25,6 @@ const linkedinHandler = () => {
 $('.statify').on('click', statifyHandler);
 $('.construction-forms').on('click', constructionFormsHandler);
 $('.palette-picker').on('click', palettePickerHandler);
-$('.github-icon').on('click', githubHandler);
 $('.fly-over-media').on('click', flyOverMediaHandler);
+$('.github-icon').on('click', githubHandler);
 $('.linkedin-icon').on('click', linkedinHandler);
